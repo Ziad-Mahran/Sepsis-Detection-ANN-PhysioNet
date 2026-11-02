@@ -1,4 +1,4 @@
-# Early Sepsis Prediction from ICU Data with an ANN
+# Sepsis-Detection-ANN-PhysioNet
 
 An end-to-end tabular deep learning project: raw hourly ICU records → cleaning → leak-free patient-level split → neural network → evaluation with the official PhysioNet/CinC 2019 clinical utility score.
 
